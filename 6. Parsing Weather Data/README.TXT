@@ -6,7 +6,7 @@ all he/she needs to know. The comments should usually include at least:
 
 
 The weather data can be available from the following link.
-http://www.dukelearntoprogram.com/course2/data/exports.zip
+http://www.dukelearntoprogram.com/course2/data/nc_weather.zip
 
 PROJECT TITLE:
 PURPOSE OF PROJECT:
