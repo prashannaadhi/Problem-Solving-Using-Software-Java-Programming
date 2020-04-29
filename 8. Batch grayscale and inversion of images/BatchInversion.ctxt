@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BatchInversion
+comment0.text=\r\n\ Inversion\ of\ images.\r\n\ \r\n\ @author\ (Prashanna\ Adhikari)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeInversion(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ selectAndConvert()
+numComments=3
