@@ -4,6 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
+The dataset for Babynames can be available from:
+http://www.dukelearntoprogram.com/course2/data/us_babynames.zip
+
 PROJECT TITLE:
 PURPOSE OF PROJECT:
 VERSION or DATE:
